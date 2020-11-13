@@ -1,0 +1,38 @@
+html {font-size: 10px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */ 
+  font-family: "Marcador permanente", cursivo; /* este deve ser o nome da fonte que você obteve no Google Fonts */ 
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #8E8E91;
+}
+
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 25px 0;    
+  color: #252B6B;
+  text-shadow: 1px 1px 0px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
